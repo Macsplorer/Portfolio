@@ -1,4 +1,4 @@
-##STLC
+
 Folder for New Features & Critical Questions
 1. Product Rating System
 Requirement: Users should be able to rate products with a 5-star system and add written feedback.
