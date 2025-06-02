@@ -1,6 +1,6 @@
-## **Test Execution Documentation for Market Mate Webshop** 
+**Test Execution Documentation for Market Mate Webshop** 
 
-## **Test Case 1: Valid Discount for Prime Members**
+**Test Case 1: Valid Discount for Prime Members**
 ### Test Cases:
  1. **Login as a Prime member.
  2. **Add products worth €60 to the cart.
