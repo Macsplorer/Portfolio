@@ -1,7 +1,5 @@
 # Folder: New Features & Critical Testing Questions
 
-This document outlines the feature requirements and critical testing questions for validating key functionalities on the [GroceryMate Platform](https://grocerymate.masterschool.com/).
-
 ---
 
 ## 1. Product Rating System
