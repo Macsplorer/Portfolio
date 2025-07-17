@@ -53,7 +53,7 @@
 **Test Steps**
 1. Got directly to product URL.
 2. Paste alcohol product link in browser.
-3. It blocks or redirects you.
+3. It doesn't block you or redirect you.
 
 ---
 
