@@ -35,9 +35,8 @@
 
 **Feature 2:** Age Verification on alcohol.
 
-##2. Age Check for alcohol products
+2. Age Check for alcohol products
 
-##Test cases
 
 **Test case 1:** Enter age over 18 
 **Test Steps:**
@@ -58,11 +57,10 @@
 
 ---
 
-++Feature 3:** Changes to Shipping Cost
+**Feature 3:** Changes to Shipping Cost
 
-##3. Shipping Cost Changes
+3. Shipping Cost Changes
 
-##Test cases
 
 **Test case 1:** Add cheap items under €20  
 **Test Steps**
