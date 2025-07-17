@@ -2,7 +2,7 @@
 
 **Feature 1: Product rating System**
 
-#Test Cases
+---
 
 **Test Case 1:** Logged in users can leave a star rating and a review.
 
@@ -29,8 +29,11 @@
 1. Try to leave a review without purchasing product.
 2. Log into account
 3. Click on a product and leave a review without buying.
+- **Expected Outcome:** You will not be able to leave a review unless you purchase an item.
 
 ---
+
+**Feature 2:** Age Verification on alcohol.
 
 ##2. Age Check for alcohol products
 
@@ -54,6 +57,8 @@
 3. It blocks or redirects you.
 
 ---
+
+++Feature 3:** Changes to Shipping Cost
 
 ##3. Shipping Cost Changes
 
