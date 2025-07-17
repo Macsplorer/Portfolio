@@ -2,7 +2,7 @@
 
 **Feature 1: Product rating System**
 
-##Test Cases##
+#Test Cases
 
 **Test Case 1:** Logged in users can leave a star rating and a review.
 
