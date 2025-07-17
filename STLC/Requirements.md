@@ -1,34 +1,44 @@
+# Folder: New Features & Critical Testing Questions
 
-Folder for New Features & Critical Questions
-1. Product Rating System
-Requirement: Users should be able to rate products with a 5-star system and add written feedback.
+This document outlines the feature requirements and critical testing questions for validating key functionalities on the [GroceryMate Platform](https://grocerymate.masterschool.com/).
 
-Critical Testing Questions:
+---
 
-Can all users (logged-in and guest) see the product ratings and reviews?
+## 1. Product Rating System
 
-Is the rating feature restricted to only users who have purchased the product?
+**Requirement:**  
+Users should be able to rate products with a 5-star system and add written feedback.
 
-What happens if a user submits an empty review or only a star rating without written feedback—does the system handle this gracefully?
+### Critical Testing Questions
 
-2. Age Verification for Alcoholic Products
-Requirement: A modal should appear asking if the user is 18+ before accessing alcoholic products.
+- Can all users (logged-in and guest) see the product ratings and reviews?
+- Is the rating feature restricted to only users who have purchased the product?
+- What happens if a user submits an empty review or only a star rating without written feedback—does the system handle this gracefully?
 
-Critical Testing Questions:
+---
 
-Does the age verification modal appear every time a user tries to access alcoholic products, or is it shown only once per session?
+## 2. Age Verification for Alcoholic Products
 
-What happens if a user enters an invalid age (e.g., letters, empty field, or age under 18)?
+**Requirement:**  
+A modal should appear asking if the user is 18+ before accessing alcoholic products.
 
-Can the user bypass the modal through the browser’s back button, refresh, or other navigation tricks?
+### Critical Testing Questions
 
-3. Shipping Cost Changes
-Requirement: Orders above a certain amount get free shipping, while others incur a fee.
+- Does the age verification modal appear every time a user tries to access alcoholic products, or is it shown only once per session?
+- What happens if a user enters an invalid age (e.g., letters, empty field, or age under 18)?
+- Can the user bypass the modal through the browser’s back button, refresh, or other navigation tricks?
 
-Critical Testing Questions:
+---
 
-Is the shipping cost correctly calculated and updated in real-time as users add/remove products from the cart?
+## 3. Shipping Cost Changes
 
-Is the threshold amount for free shipping clearly displayed to the user during the checkout process?
+**Requirement:**  
+Orders above a certain amount get free shipping, while others incur a fee.
 
-Are edge cases handled correctly—for example, what happens if the total is exactly at the free shipping threshold?
+### Critical Testing Questions
+
+- Is the shipping cost correctly calculated and updated in real-time as users add/remove products from the cart?
+- Is the threshold amount for free shipping clearly displayed to the user during the checkout process?
+- Are edge cases handled correctly—for example, what happens if the total is exactly at the free shipping threshold?
+
+---
